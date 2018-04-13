@@ -6,3 +6,4 @@
 [BitBucket](https://bitbucket.org/product):免费源代码托管平台<br>
 [gitHub](https://github.com/)是一个面向开源及私有软件项目的托管平台<br>
 [Launchpad](https://launchpad.net/)是Ubuntu母公司Canonical有限公司所资助架设的网站，是一个提供维护、支持或连络Ubuntu开发者的平台。<br>
+[Git-Book](https://book.git-scm.com/book/zh/v2):Git 使用教程<br>
